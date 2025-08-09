@@ -1,31 +1,3 @@
-<div align="center">
-  <br />
-    <a href="#" target="_blank">
-      <img src="public/readme/hero.webp" alt="Project Banner">
-    </a>
-  <br />
-
-  <div>
-    <img alt="Static Badge" src="https://img.shields.io/badge/React-4c84f3?style=for-the-badge&logo=react&logoColor=white">
-        <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-        <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="TypeScript" />
-    <img alt="Static Badge" src="https://img.shields.io/badge/Puter.js-181758?style=for-the-badge&logoColor=white">
-  </div>
-
-  <h3 align="center">AI-Powered Resume Analyzer</h3>
-
-   <div align="center">
-     A modern web application that analyzes resumes using AI to provide ATS scores, detailed feedback, and job-specific recommendations.
-    </div>
-</div>
-
-## 📋 <a name="table">Table of Contents</a>
-
-1. ✨ [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-
 ## <a name="introduction">✨ Introduction</a>
 
 **AI Resume Analyzer** is a comprehensive web application that empowers job seekers to optimize their resumes for better job opportunities. The application leverages artificial intelligence to analyze resumes against specific job listings, providing detailed ATS (Applicant Tracking System) compatibility scores and actionable feedback.
